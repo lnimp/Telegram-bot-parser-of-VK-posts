@@ -1,0 +1,92 @@
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.exe
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.deps.json
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.runtimeconfig.json
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.pdb
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.csproj.AssemblyReference.cache
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.AssemblyInfoInputs.cache
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.AssemblyInfo.cs
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.csproj.CoreCompileInputs.cache
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.csproj.CopyComplete
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\refint\VKPublicPostBot.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.pdb
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.genruntimeconfig.cache
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\ref\VKPublicPostBot.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.exe
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.deps.json
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.runtimeconfig.json
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\VKPublicPostBot.pdb
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\AngleSharp.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.csproj.AssemblyReference.cache
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.AssemblyInfoInputs.cache
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.AssemblyInfo.cs
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.csproj.CoreCompileInputs.cache
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.csproj.CopyComplete
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\refint\VKPublicPostBot.dll
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.pdb
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\VKPublicPostBot.genruntimeconfig.cache
+C:\Users\linar\Desktop\Work\.Net Core.Консольное приложение\Bots\VKPublicPostBot\VKPublicPostBot\obj\Debug\net6.0\ref\VKPublicPostBot.dll

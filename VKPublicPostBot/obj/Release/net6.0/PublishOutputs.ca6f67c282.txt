@@ -1,0 +1,9 @@
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\VKPublicPostBot.exe
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\VKPublicPostBot.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\VKPublicPostBot.deps.json
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\VKPublicPostBot.runtimeconfig.json
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\VKPublicPostBot.pdb
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\AngleSharp.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\Newtonsoft.Json.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\Telegram.Bot.dll
+C:\Users\linar\source\repos\VKPublicPostBot\VKPublicPostBot\publish\Telegram.Bot.Extensions.Polling.dll
